@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on:
- * https://github.com/tcrurav/bluecity
+ * https://adquiver.com
 
 🌱 I’m currently learning:
  * JS & TS
- * Java
  * Python
+ * AWS Cloud Computing
  
  📫 How to reach me:
   * Email: nxssiedev@gmail.com
