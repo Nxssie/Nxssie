@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working at:
- * https://www.singularfactory.com
-
 🌱 I’m currently learning:
  * JS & TS
  * Python
