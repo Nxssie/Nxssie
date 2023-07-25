@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--🔝 I’m currently working at:
+🔝 I’m currently working at:
 * [Mirai](https://mirai.com)
 
 🧑🏻‍💻 I’m currently using:
