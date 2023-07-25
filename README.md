@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 * [MUI](https://mui.com)
  
 📫 How to reach me:
- * Email: nxssiedev@gmail.com
- * Twitter: @NxssieDev
+ * nxssiedev@gmail.com
+ * <img src="https://abs.twimg.com/favicons/twitter.3.ico" width=16/> [Twitter](https://twitter.com/nxssiedev)
