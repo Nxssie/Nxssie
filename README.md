@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning:
- * JS & TS
- * Python
- * AWS Cloud Computing
+🔭 I’m currently working on:
+* [Mirai](https://mirai.com)
+
+🧑🏻‍💻 I’m currently using:
+* Next.js
+* Java
+* Docker
+* [Supabase](https://supabase.com)
+* AWS
+* [MUI](https://mui.com)
  
- 📫 How to reach me:
-  * Email: nxssiedev@gmail.com
-  * Twitter: @NxssieDev
+📫 How to reach me:
+ * Email: nxssiedev@gmail.com
+ * Twitter: @NxssieDev
