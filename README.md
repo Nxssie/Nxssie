@@ -1,5 +1,7 @@
 # Carlos Sánchez
 
+Currently working at **Mirai**
+
 ## Technologies
 
 ### OS
