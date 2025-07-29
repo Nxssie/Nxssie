@@ -18,13 +18,7 @@ Here are some ideas to get you started:
 🔝 I’m currently working at:
 * [Mirai](https://mirai.com)
 
-🧑🏻‍💻 I’m currently using:
-* Next.js
-* Java
-* Docker
-* [Supabase](https://supabase.com)
-* AWS
-* [MUI](https://mui.com)
+☕ Powered by JVM
  
 📫 How to reach me:
  * nxssiedev@gmail.com
