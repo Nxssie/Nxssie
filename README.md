@@ -3,7 +3,7 @@
 ## Technologies
 
 ### OS
-![Arch Linux](https://img.shields.io/badge/-white?logo=archlinux)
+![Arch Linux](https://img.shields.io/badge/-white?style=flat-square%logo=archlinux)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
