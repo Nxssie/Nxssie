@@ -1,6 +1,6 @@
 # Carlos Sánchez
 
-Currently working at **Mirai**
+Currently working at [**Mirai**](https://mirai.com)
 
 ## Technologies
 
