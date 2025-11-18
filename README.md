@@ -5,7 +5,7 @@ Currently working at **Mirai**
 ## Technologies
 
 ### OS
-![Arch Linux](https://img.shields.io/badge/Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1793D1?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ### Languages
